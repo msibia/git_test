@@ -1,1 +1,1 @@
-Testting a text file for my git basics lesson in the Odin project
+Testing a text file for my git basics lesson in the Odin project
